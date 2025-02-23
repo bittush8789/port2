@@ -68,15 +68,15 @@ const SkillInfo = [
     },
     {
         title: "MLOps",
-        skills: ["AWS Sagemaker", "kubeflow", "MLflow", "MySQL", "MongoDB", "Airflow", "DVC","LangChain"]
+        skills: ["AWS Sagemaker", "Kubeflow", "MLflow", "MySQL", "MongoDB", "Airflow", "DVC","LangChain"]
     },
     {
         title: "Generative Ai",
-        skills: ["Python", "Flask", "FastAPI","LangChain","Crew Ai","Agentic Ai","Huggingface","NLP",,"VectorDB"]
+        skills: ["Python", "Flask", "FastAPI","LangChain","Crew Ai","Agentic Ai","Huggingface","NLP","VectorDB"]
     },
     {
-        title: "Tools",
-        skills: ["Git","Jira", "Postman", "ChatGPT", "Copilot","Gemini"]
+        title: "DevSecOps",
+        skills: ["Git","Jira", "Postman", "SonarQube", "Trivy","Nexus","QWASP"]
     }
 ]
 const socialLinks = [
