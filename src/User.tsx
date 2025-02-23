@@ -72,7 +72,7 @@ const SkillInfo = [
     },
     {
         title: "Generative Ai",
-        skills: ["Python", "Flask", "FastAPI","Langchain","Crew Ai","Agentic Ai","Huggingface","NLP",,"VectorDB"]
+        skills: ["Python", "Flask", "FastAPI","LangChain","Crew Ai","Agentic Ai","Huggingface","NLP",,"VectorDB"]
     },
     {
         title: "Tools",
