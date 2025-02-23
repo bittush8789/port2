@@ -63,7 +63,7 @@ const ProjectInfo = [
 const SkillInfo = [
     {
         title: "DevOps",
-        skills: ["Jenkins", "kubernetes","docker", "GitLab", "CircleCI", "Ansible", "Terraform", "AWS", "Linux","Prometheus","Grafana"
+        skills: ["Jenkins", "kubernetes","Docker", "GitLab", "CircleCI", "Ansible", "Terraform", "AWS", "Linux","Prometheus","Grafana"
         ]
     },
     {
