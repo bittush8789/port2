@@ -63,12 +63,12 @@ const ProjectInfo = [
 const SkillInfo = [
     {
         title: "DevOps",
-        skills: ["Docker", "kubernetes","Jenkins", "GitLab", "CircleCI", "Ansible", "Terraform", "AWS", "Linux","Prometheus","Grafana"
+        skills: ["Jenkins", "kubernetes","Docker", "GitLab", "CircleCI", "Ansible", "Terraform", "AWS", "Linux","Prometheus","Grafana"
         ]
     },
     {
         title: "MLOps",
-        skills: ["AWS Sagemaker", "Kubeflow", "MLflow", "MySQL", "MongoDB", "Airflow", "DVC","LangChain"]
+        skills: ["AWS Sagemaker", "Kubeflow", "MLflow", "MySQL", "MongoDB", "Airflow", "DVC","LangChain","Github Actions"]
     },
     {
         title: "Generative Ai",
