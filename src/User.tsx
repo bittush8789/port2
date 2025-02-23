@@ -71,8 +71,8 @@ const SkillInfo = [
         skills: ["AWS Sagemaker", "kubeflow", "MLflow", "MySQL", "MongoDB", "Airflow", "DVC","LangChain"]
     },
     {
-        title: "Backend Development",
-        skills: ["Python", "Java", "Django", "Flask", "FastAPI"]
+        title: "Generative Ai",
+        skills: ["Python", "Flask", "FastAPI","Langchain","Crew Ai","Agentic Ai","Huggingface","NLP",,"VectorDB"]
     },
     {
         title: "Tools",
