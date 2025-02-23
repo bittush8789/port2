@@ -45,6 +45,14 @@ const ProjectInfo = [
         github: "https://github.com/bittush8789/Microservice.git"
     },  
 
+    {
+        title: "CI/CD Pipeline for Automated Deployment",
+        desc: "Designed and implemented a CI/CD pipeline using GitHub Actions, automating build, test, security scans, and deployments.Used Maven for code compilation, unit testing, and artifact packaging.Integrated SonarQube for code quality checks and Trivy for vulnerability scanning.Containerized applications using Docker and deployed them to Kubernetes.Managed Nexus Repository for artifact storage and Docker images.Set up monitoring with Prometheus and Grafana to track application performance and health.",
+        image: "Github_Actions.png",
+        technologies: ["GitHub Actions", "Maven","SonarQube","Trivy","Docker","Kubernetes","Nexus Repository","Prometheus & Grafana"],
+        link: "https://bittublog.hashnode.dev/8j2xmfcdmilwnze58j2xufcdl6bwnzib8j2xrvcdl7dwnze4ipcdl53wnzeu8j2xqfcdl5qg8j2xrvcdl73wnze98j2xufcdl7bwnzew8j2xrvcdmihwnze28j2xvpcdl7sg8j2xsfcdl7lwnze98j2xufcdl7zwnzig8j2xuvcdl7lwnze78j2ygsdwnze88j2xuydwnzee8j2ygvcdl6wnzey8j2xvcdl7vwnzey8j2ygfcdl7lwnziaipcdmihwnze18j2xvcdl7zwnzic8j2xtpcdl7ug8j2xmvcdl7bwnzib8j2xmcdmilwnzevipcdl5twnzew8j2ygfcdl7bwnze88j2xuw",
+        github: "https://github.com/bittush8789/Boardgame.git"
+    },  
     
 
 
