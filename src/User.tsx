@@ -57,7 +57,7 @@ const ProjectInfo = [
     {
         title: "GitLab CI/CD Pipeline for Automated Deployment",
         desc: "Designed and implemented a CI/CD pipeline using GitLab CI to automate the build, test, and deployment processes for a Spring-based Petclinic application. Integrated SonarQube for static code analysis to ensure code quality and maintainability. Utilized Docker to containerize the application and deploy it in a consistent and scalable manner. Worked with self-hosted runners to execute pipeline jobs in a controlled environment.Automated the deployment process, reducing manual intervention and improving deployment frequency.",
-        image: "GitLab.png",
+        image: "Hello.png",
         technologies: ["GitLab CI/CD", "Maven","SonarQube","Docker","Java","Spring Framework"],
         link: " https://gitlab.com/bittu5924947/gitlab2.git",
         github: "https://gitlab.com/bittu5924947/gitlab2.git"
