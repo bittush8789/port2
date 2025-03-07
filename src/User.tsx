@@ -52,7 +52,18 @@ const ProjectInfo = [
         technologies: ["GitHub Actions", "Maven","SonarQube","Trivy","Docker","Kubernetes","Nexus Repository","Prometheus & Grafana"],
         link: "https://bittublog.hashnode.dev/8j2xmfcdmilwnze58j2xufcdl6bwnzib8j2xrvcdl7dwnze4ipcdl53wnzeu8j2xqfcdl5qg8j2xrvcdl73wnze98j2xufcdl7bwnzew8j2xrvcdmihwnze28j2xvpcdl7sg8j2xsfcdl7lwnze98j2xufcdl7zwnzig8j2xuvcdl7lwnze78j2ygsdwnze88j2xuydwnzee8j2ygvcdl6wnzey8j2xvcdl7vwnzey8j2ygfcdl7lwnziaipcdmihwnze18j2xvcdl7zwnzic8j2xtpcdl7ug8j2xmvcdl7bwnzib8j2xmcdmilwnzevipcdl5twnzew8j2ygfcdl7bwnze88j2xuw",
         github: "https://github.com/bittush8789/Boardgame.git"
-    },  
+    }, 
+
+    {
+        title: "GitLab CI/CD Pipeline for Automated Deployment",
+        desc: "Designed and implemented a CI/CD pipeline using GitLab CI to automate the build, test, and deployment processes for a Spring-based Petclinic application. Integrated SonarQube for static code analysis to ensure code quality and maintainability. Utilized Docker to containerize the application and deploy it in a consistent and scalable manner. Worked with self-hosted runners to execute pipeline jobs in a controlled environment.Automated the deployment process, reducing manual intervention and improving deployment frequency.",
+        image: "GitLab2.png",
+        technologies: ["GitLab CI/CD", "Maven","SonarQube","Docker","Java","Spring Framework"],
+        link: " https://gitlab.com/bittu5924947/gitlab2.git",
+        github: "https://gitlab.com/bittu5924947/gitlab2.git"
+    },
+
+    
     
 
 
