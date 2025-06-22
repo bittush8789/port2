@@ -55,12 +55,12 @@ const ProjectInfo = [
     }, 
 
     {
-        title: "GitLab CI/CD Pipeline for Automated Deployment",
-        desc: "Designed and implemented a CI/CD pipeline using GitLab CI to automate the build, test, and deployment processes for a Spring-based Petclinic application. Integrated SonarQube for static code analysis to ensure code quality and maintainability. Utilized Docker to containerize the application and deploy it in a consistent and scalable manner. Worked with self-hosted runners to execute pipeline jobs in a controlled environment.Automated the deployment process, reducing manual intervention and improving deployment frequency.",
-        image: "Hello.png",
-        technologies: ["GitLab CI/CD", "Maven","SonarQube","Docker","Java","Spring Framework"],
-        link: " https://gitlab.com/bittu5924947/gitlab2.git",
-        github: "https://gitlab.com/bittu5924947/gitlab2.git"
+        title: "Ansible VM Monitor Automation",
+        desc: "Developed VM monitoring automation using Ansible to track system health across multiple servers. Collected and reported CPU, memory, disk, and network metrics.Implemented Infrastructure as Code (IaC) principles for consistency.Automated email alerts for critical performance data.",
+        image: "Ansible.png",
+        technologies: ["AWS EC2", "Terraform","Python","Docker","Bash"],
+        link: " https://github.com/bittush8789/ANSIBLE-VM-MONITOR.git",
+        github: "https://github.com/bittush8789/ANSIBLE-VM-MONITOR.git"
     },
 
     
