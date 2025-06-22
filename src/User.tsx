@@ -57,7 +57,7 @@ const ProjectInfo = [
     {
         title: "Ansible VM Monitor Automation",
         desc: "Developed VM monitoring automation using Ansible to track system health across multiple servers. Collected and reported CPU, memory, disk, and network metrics.Implemented Infrastructure as Code (IaC) principles for consistency.Automated email alerts for critical performance data.",
-        image: "ansible.jpg",
+        image: "Ansible.png",
         technologies: ["AWS EC2", "Terraform","Python","Docker","Bash"],
         link: " https://github.com/bittush8789/ANSIBLE-VM-MONITOR.git",
         github: "https://github.com/bittush8789/ANSIBLE-VM-MONITOR.git"
