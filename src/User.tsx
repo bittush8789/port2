@@ -65,8 +65,8 @@ const ProjectInfo = [
 
     {
         title: "CloudWatch-Logs-Analyzer",
-        desc: "This project focuses on automating the analysis of AWS CloudWatch logs to extract actionable insights, detect anomalies, and improve system observability. Automated Log Processing: Developed a Python-based tool to query, filter, and analyze CloudWatch logs efficiently.Anomaly Detection: Implemented log pattern recognition to identify errors, latency spikes, and unusual activity for proactive troubleshooting.AWS Integration: Leveraged AWS SDK (Boto3) to interact with CloudWatch APIs, fetch logs, and generate reports.Custom Metrics & Alerts: Configured CloudWatch alarms based on log analysis to trigger notifications (SNS/Slack) for critical events. Cost & Performance Optimization: Reduced log storage costs by filtering unnecessary data and improving log retention policies. Scalability & Automation: Designed the solution to run on AWS Lambda (serverless) or as a scheduled task (using EventBridge) for periodic analysis.",
         image: "Amazon_Q.png",
+        desc: " A Streamlit application for analyzing AWS Lambda function logs from CloudWatch. Provides visual analytics and insights to help developers and DevOps engineers understand performance patterns, identify errors, and op  timize resource usage.",
         technologies: ["AWS CloudWatch", "Python (Boto3)","Amazon Q","AWS CLI"],
         link: " https://github.com/bittush8789/CloudWatch-Logs-Analyzer.git",
         github: "https://github.com/bittush8789/CloudWatch-Logs-Analyzer.git"
