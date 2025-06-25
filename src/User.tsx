@@ -63,6 +63,14 @@ const ProjectInfo = [
         github: "https://github.com/bittush8789/ANSIBLE-VM-MONITOR.git"
     },
 
+    {
+        title: "CloudWatch-Logs-Analyzer",
+        desc: "This project focuses on automating the analysis of AWS CloudWatch logs to extract actionable insights, detect anomalies, and improve system observability. Automated Log Processing: Developed a Python-based tool to query, filter, and analyze CloudWatch logs efficiently.Anomaly Detection: Implemented log pattern recognition to identify errors, latency spikes, and unusual activity for proactive troubleshooting.AWS Integration: Leveraged AWS SDK (Boto3) to interact with CloudWatch APIs, fetch logs, and generate reports.Custom Metrics & Alerts: Configured CloudWatch alarms based on log analysis to trigger notifications (SNS/Slack) for critical events. Cost & Performance Optimization: Reduced log storage costs by filtering unnecessary data and improving log retention policies. Scalability & Automation: Designed the solution to run on AWS Lambda (serverless) or as a scheduled task (using EventBridge) for periodic analysis.",
+        image: "Amazon_Q.png",
+        technologies: ["AWS CloudWatch", "Python (Boto3)","Amazon Q","AWS CLI"],
+        link: " https://github.com/bittush8789/CloudWatch-Logs-Analyzer.git",
+        github: "https://github.com/bittush8789/CloudWatch-Logs-Analyzer.git"
+    },
     
     
 
