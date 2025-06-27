@@ -71,6 +71,15 @@ const ProjectInfo = [
         link: " https://github.com/bittush8789/CloudWatch-Logs-Analyzer.git",
         github: "https://github.com/bittush8789/CloudWatch-Logs-Analyzer.git"
     },
+
+    {
+        title: "MLOps Pipeline for Diabetes Prediction",
+        image: "MLOps.png",
+        desc:   "This is an end-to-end machine learning operations pipeline designed to predict diabetes using health-related data. The project walks through key MLOps practices including model development, API creation, containerization, and orchestration. It starts with training a machine learning model using features like glucose levels, BMI, and age, followed by developing a FastAPI-based REST API to serve predictions. The application is then containerized using Docker and deployed using Kubernetes for scalable, production-ready service delivery. With components like train.py, main.py, Dockerfile, and k8s-deploy.yml, this project provides a hands-on introduction to modern ML deployment workflows.",
+        technologies: ["Python", "FastAPI","Docker","Kubernetes", ],
+        link: " https://github.com/bittush8789/first-mlops-project.git",
+        github: "https://github.com/bittush8789/first-mlops-project.git"
+    },
     
     
 
