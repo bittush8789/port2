@@ -81,13 +81,7 @@ const ProjectInfo = [
         github: "https://github.com/bittush8789/first-mlops-project.git"
     },
     
-    {
-        title: "AI-powered research assistant",
-        image: "research.png",
-        desc:   "Developed an AI-powered research assistant using Python and Streamlit to fetch, summarize, and evaluate academic papers. Integrated ArXiv API and Groq LLMs for automated paper analysis, summarizing key insights, pros/cons, and relevance. Built modular components (`agents.py`, `data_loader.py`) for maintainable code structure and future extensibility. Ensured secure key management via `dotenv`, and provided a clean deployment setup with `requirements.txt`. Improved literature review efficiency for researchers by automating discovery and comparison of papers.",
-        link: " https://github.com/bittush8789/AI-Powered-Research-Assistant.git",
-        github: "https://github.com/bittush8789/AI-Powered-Research-Assistant.git"
-    },
+   
     
 
 
