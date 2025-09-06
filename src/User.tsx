@@ -121,7 +121,7 @@ const ExperienceInfo = [
         role: "Associate Analyst-DevOps",
         company: "EXL Service.com india Pvt ltd",
         date: "April 2024 - Present",
-        desc: "As an AssociatI am a DevOps Engineer with 1.6 years of hands-on experience in building scalable, secure, and automated infrastructure. I specialize in CI/CD pipelines, containerization, Kubernetes adoption, and cloud-native solutions on AWS. My focus is on driving efficiency, cost optimization, and enabling teams to adopt modern DevOps practices.e Analyst, I collect and clean data to ensure accuracy, analyze it using tools like Excel, Python to find useful insights, and create reports and visualizations to present my findings. I collaborate with team members and clients to support various projects, develop models for forecasting, and implement data-driven solutions. I also conduct research on industry trends, document my analysis processes, and continuously improve my skills through training and workshops.",
+        desc: "I am a DevOps Engineer with 1.6 years of hands-on experience in building scalable, secure, and automated infrastructure. I specialize in CI/CD pipelines, containerization, Kubernetes adoption, and cloud-native solutions on AWS. My focus is on driving efficiency, cost optimization, and enabling teams to adopt modern DevOps practices.",
         skills: ["Git", "Docker", "Kubernetes", "Terraform", "Linux", "AWS", "CICD"]
     },
     {
